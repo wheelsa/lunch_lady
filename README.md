@@ -1,7 +1,7 @@
 # lunch_lady
 
 
-## 
+## What this app does
 - It takes name
 - It shows menu item
 - It shows order and total
